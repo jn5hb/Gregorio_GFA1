@@ -1,0 +1,27 @@
+#container {
+    width: 750px;
+    height: 700px;
+
+    background-color: white;
+
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+#card {
+    margin: 25px;
+
+    font-size: 18px;
+    text-align: justify;
+}
+p, form{
+    line-height: 1.75;
+
+    text-align: justify;
+    font-family: sans-serif;
+}
